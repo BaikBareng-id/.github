@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.png" height="120" />
-  <h1>Kantor Kebaikan Organization</h1>
+  <h1>Kantor Kebaikan</h1>
   <p><strong>Developer Team dari BaikBareng untuk Perlombaan BI-OJK Hackathon 2025</strong></p>
   <p>Bantu Tepat, Bareng Hebat!</p>
   <br />
